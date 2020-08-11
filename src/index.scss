@@ -1,0 +1,28 @@
+*{
+  margin:0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+$mainBlack:black;
+$mainGreen:rgb(105, 185, 80);
+$mainGrey:rgb(241, 238, 238);
+$mainWhite:white;
+$mainTransition: all 0.3s linear;
+
+
+
+
+
+
+
+body {
+  font-family: 'Sigmar One', cursive;
+  background: $mainWhite;
+  color: $mainBlack
+}
+
+
+
+
+
